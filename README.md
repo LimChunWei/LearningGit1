@@ -1,2 +1,2 @@
 # LearningGit1
-Learning Purpose
+This is repo for learning Practical 4-6
